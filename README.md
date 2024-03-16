@@ -6,3 +6,6 @@ En esta clase estamos aprendiendo conceptos básicos de matemáticas relacionado
 ### Álgebra
 #### Docente:  Hugo Tlahuext
 En esta clase estamos aprendiendo conceptos básicos de álgebra relacionados a los vectores, las matrices y su implementación en Python.
+### Programación I
+#### Docente:  Jonathan MirCha
+En esta clase estamos aprendiendo conceptos básicos de programación relacionados al flujo de Github, Git, Markdown y la sintaxis de distintos estándares web como HTML, CSS y JS.
