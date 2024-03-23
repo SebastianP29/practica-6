@@ -18,3 +18,5 @@ En esta clase estamos aprendiendo conceptos básicos de ciberseguridad relaciona
 
 ---
 # Creando la versión 1.0.0 de este repositorio.
+
+# Creando la versión 1.1.0 de este repositorio.
