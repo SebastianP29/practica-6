@@ -15,3 +15,6 @@ En esta clase estamos aprendiendo conceptos fundamentales de computadoras relaci
 ### Introducción a la Ciberseguridad
 #### Docente:  Cynthia Jiménez
 En esta clase estamos aprendiendo conceptos básicos de ciberseguridad relacionados a teoría, la importancia, y los prospectos de trabajo de la materia.
+
+---
+# Creando la versión 1.0.0 de este repositorio.
